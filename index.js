@@ -1,7 +1,7 @@
 $(document).ready(async function () {
 
-  let pageTitle = 'Shop Online';
-  let cartTotal = 1099;
+  let pageTitle = 'Online Jewelry shopping';
+  let cartTotal = 1701;
   appendData();
 
 
